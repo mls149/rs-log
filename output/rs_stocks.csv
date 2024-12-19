@@ -1,451 +1,450 @@
 Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 Months Ago,6 Months Ago
-1,PLTR,Information Technology,Internet Services & Infrastructure,S&P 500,248.39,99,99,99,94
-2,LUMN,Communication Services,Alternative Carriers,S&P 600,244.3,99,99,99,1
-3,EAT,Consumer Discretionary,Restaurants,S&P 600,200.37,99,99,98,99
-4,TSLA,Consumer Discretionary,Automobile Manufacturers,S&P 500,196.86,99,96,68,22
-5,GEO,Industrials,Environmental & Facilities Services,S&P 600,195.69,99,99,44,92
-6,ADMA,Health Care,Biotechnology,S&P 600,194.44,99,99,99,99
-7,SMTC,Information Technology,Semiconductors,S&P 600,193.03,99,98,99,70
-8,HIMS,Health Care,Health Care Services,S&P 600,185.38,99,98,92,99
-9,VST,Utilities,Electric Utilities,S&P 500,183.79,99,99,99,99
-10,VSCO,Consumer Discretionary,Apparel Retail,S&P 600,174.9,99,95,88,26
-11,AXON,Industrials,Aerospace & Defense,S&P 500,174.53,99,99,95,84
-12,UAL,Industrials,Passenger Airlines,S&P 500,173.2,99,99,53,48
-13,SITM,Information Technology,Semiconductors,S&P 600,171.99,99,96,93,75
-14,UNFI,Consumer Staples,Food Retail,S&P 600,170.32,99,96,61,21
-15,WWW,Consumer Discretionary,Footwear,S&P 600,168.58,99,99,94,91
-16,SFM,Consumer Staples,Food Retail,S&P 400,167.2,98,99,99,99
-17,GEV,Industrials,Heavy Electrical Equipment,S&P 500,160.88,98,99,98,86
-18,CRS,Materials,Steel,S&P 600,159.99,98,99,99,98
-19,PAYO,Financials,Transaction & Payment Processing Services,S&P 600,154.99,98,98,92,61
-20,CIEN,Information Technology,Communications Equipment,S&P 400,153.04,98,77,83,51
-21,TDS,Communication Services,Integrated Telecommunication Services,S&P 600,152.61,98,98,77,97
-22,TPL,Energy,Oil & Gas Exploration & Production,S&P 500,152.39,98,99,96,93
-23,TGTX,Health Care,Biotechnology,S&P 600,152.09,98,98,97,86
-24,CORT,Health Care,Pharmaceuticals,S&P 600,151.6,98,99,94,82
-25,CALM,Consumer Staples,Packaged Foods & Meats,S&P 600,151.31,98,95,87,77
-26,DXPE,Industrials,Trading Companies & Distributors,S&P 600,150.04,98,97,78,65
-27,DOCU,Information Technology,Application Software,S&P 400,149.99,98,94,50,36
-28,GME,Consumer Discretionary,Computer & Electronics Retail,S&P 400,149.15,98,94,58,98
-29,CRK,Energy,Oil & Gas Exploration & Production,S&P 600,148.94,98,85,50,60
-30,POWL,Industrials,Electrical Components & Equipment,S&P 600,148.34,98,99,99,98
-31,LITE,Information Technology,Communications Equipment,S&P 400,147.08,97,96,71,38
-32,DOCS,Health Care,Health Care Technology,S&P 400,146.49,97,98,98,51
-33,AVGO,Information Technology,Semiconductors,S&P 500,145.46,97,72,92,98
-34,IDCC,Information Technology,Communications Equipment,S&P 600,145.04,97,95,88,81
-35,TRUP,Financials,Life & Health Insurance,S&P 600,144.92,97,96,95,69
-36,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,144.63,97,98,88,93
-37,JEF,Financials,Multi-Sector Holdings,S&P 400,144.37,97,96,94,89
-38,TILE,Industrials,Office Services & Supplies,S&P 600,143.65,97,98,92,83
-39,CXW,Industrials,Diversified Support Services,S&P 600,142.43,97,94,25,30
-40,IBKR,Financials,Investment Banking & Brokerage,S&P 400,141.67,97,98,86,92
-41,COHR,Information Technology,Electronic Components,S&P 400,139.89,97,97,99,98
-42,ALK,Industrials,Passenger Airlines,S&P 600,139.8,97,89,31,31
-43,HBI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,139.71,97,96,92,51
-44,LQDT,Industrials,Diversified Support Services,S&P 600,138.0,97,73,71,77
-45,TTMI,Information Technology,Electronic Manufacturing Services,S&P 600,137.29,97,84,47,92
-46,GDDY,Information Technology,Internet Services & Infrastructure,S&P 500,136.64,96,92,93,97
-47,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 500,136.47,96,92,59,61
-48,KD,Information Technology,IT Consulting & Other Services,S&P 400,136.34,96,72,47,96
-49,CNK,Communication Services,Movies & Entertainment,S&P 600,135.84,96,97,96,88
-50,ALGT,Industrials,Airlines,S&P 600,135.26,96,92,3,1
-51,DTM,Energy,Oil & Gas Storage & Transportation,S&P 400,135.12,96,96,86,91
-52,TRGP,Energy,Oil & Gas Storage & Transportation,S&P 500,134.93,96,98,95,95
-53,VIRT,Financials,Financial Exchanges & Data,S&P 600,134.93,96,97,97,86
-54,STEP,Financials,Asset Management & Custody Banks,S&P 600,134.69,96,98,97,97
-55,GSHD,Financials,Insurance Brokers,S&P 600,134.17,96,94,87,10
-56,AGYS,Information Technology,Application Software,S&P 600,134.16,96,74,78,92
-57,BFH,Financials,Consumer Finance,S&P 600,133.59,96,92,89,89
-58,PBI,Industrials,Office Services & Supplies,S&P 600,133.54,96,92,99,92
-59,LRN,Consumer Discretionary,Education Services,S&P 600,132.94,96,94,92,92
-60,MD,Health Care,Health Care Services,S&P 600,132.89,96,95,55,2
-61,SYF,Financials,Consumer Finance,S&P 500,132.7,95,96,78,83
-62,FIX,Industrials,Construction & Engineering,S&P 400,131.56,95,96,97,96
-63,HWM,Industrials,Aerospace & Defense,S&P 500,131.34,95,95,97,96
-64,AAON,Industrials,Building Products,S&P 400,130.91,95,97,93,82
-65,DUOL,Consumer Discretionary,Education Services,S&P 400,130.75,95,95,87,67
-66,FTNT,Information Technology,Systems Software,S&P 500,130.68,95,91,79,23
-67,SKYW,Industrials,Airlines,S&P 600,130.52,95,98,88,98
-68,CNX,Energy,Oil & Gas Exploration & Production,S&P 400,130.44,95,96,91,72
-69,FTDR,Consumer Discretionary,Specialized Consumer Services,S&P 600,130.28,95,90,91,50
-70,UFCS,Financials,Property & Casualty Insurance,S&P 600,130.08,95,81,28,41
-71,ENVA,Financials,Consumer Finance,S&P 600,129.93,95,97,95,57
-72,DCOM,Financials,Regional Banks,S&P 600,129.82,95,98,94,44
-73,HAFC,Financials,Regional Banks,S&P 600,129.81,95,95,66,39
-74,PLXS,Information Technology,Electronic Manufacturing Services,S&P 600,129.55,95,89,84,56
-75,AOSL,Information Technology,Semiconductors,S&P 600,129.42,95,49,64,94
-76,XPO,Industrials,Cargo Ground Transportation,S&P 400,129.37,94,80,62,83
-77,TKO,Communication Services,Movies & Entertainment,S&P 400,129.36,94,73,87,86
-78,CVLT,Information Technology,Systems Software,S&P 400,129.23,94,95,98,96
-79,ALTM,Materials,Specialty Chemicals,S&P 400,129.12,94,84,0,0
-80,FOX,Communication Services,Broadcasting,S&P 500,129.05,94,86,80,64
-81,GTLS,Industrials,Industrial Machinery & Supplies & Components,S&P 400,128.96,94,78,8,21
-82,WSM,Consumer Discretionary,Homefurnishing Retail,S&P 400,128.92,94,44,89,97
-83,GVA,Industrials,Construction & Engineering,S&P 600,128.89,94,97,96,91
-84,CENX,Materials,Aluminum,S&P 600,128.76,94,98,70,97
-85,NFLX,Communication Services,Movies & Entertainment,S&P 500,128.49,94,89,82,94
-86,FICO,Information Technology,Application Software,S&P 500,128.31,94,97,97,95
-87,WMT,Consumer Staples,Consumer Staples Merchandise Retail,S&P 500,128.19,94,82,88,85
-88,RDNT,Health Care,Health Care Services,S&P 600,127.91,94,97,98,98
-89,VNO,Real Estate,Office REITs,S&P 400,127.82,94,93,96,59
-90,MASI,Health Care,Health Care Equipment,S&P 400,127.65,93,86,29,56
-91,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,127.65,93,96,45,71
-92,NVDA,Information Technology,Semiconductors,S&P 500,127.42,93,98,98,99
-93,CEVA,Information Technology,Semiconductors,S&P 600,126.66,93,65,52,14
-94,DECK,Consumer Discretionary,Footwear,S&P 500,126.53,93,74,64,97
-95,LGND,Health Care,Biotechnology,S&P 600,126.24,93,87,91,77
-96,PPC,Consumer Staples,Packaged Foods & Meats,S&P 400,126.1,93,94,91,95
-97,FOXA,Communication Services,Broadcasting,S&P 500,126.02,93,84,81,62
-98,MLI,Industrials,Industrial Machinery & Supplies & Components,S&P 400,125.96,93,97,95,85
-99,MCY,Financials,Property & Casualty Insurance,S&P 600,125.82,93,92,96,96
-100,PJT,Financials,Investment Banking & Brokerage,S&P 600,125.74,93,94,93,87
-101,UNM,Financials,Life & Health Insurance,S&P 400,125.5,93,93,61,49
-102,ATGE,Consumer Discretionary,Education Services,S&P 600,125.38,93,91,91,95
-103,MDU,Utilities,Multi-Utilities,S&P 600,125.36,93,94,73,76
-104,PAHC,Health Care,Pharmaceuticals,S&P 600,125.25,93,97,97,94
-105,EXEL,Health Care,Biotechnology,S&P 400,125.21,93,94,55,41
-106,ACIW,Information Technology,Application Software,S&P 600,125.14,92,95,97,94
-107,ANET,Information Technology,Communications Equipment,S&P 500,125.1,92,76,94,98
-108,NWL,Consumer Discretionary,Housewares & Specialties,S&P 600,125.05,92,62,23,5
-109,PIPR,Financials,Investment Banking & Brokerage,S&P 600,124.59,92,97,97,93
-110,EME,Industrials,Construction & Engineering,S&P 400,124.52,92,97,96,97
-111,GKOS,Health Care,Health Care Equipment,S&P 600,124.46,92,88,90,95
-112,PLNT,Consumer Discretionary,Leisure Facilities,S&P 400,124.15,92,87,83,83
-113,HWKN,Materials,Commodity Chemicals,S&P 600,124.06,92,92,97,94
-114,CSWI,Industrials,Industrial Conglomerates,S&P 600,123.76,92,97,98,91
-115,CARG,Communication Services,Interactive Media & Services,S&P 600,123.75,92,92,83,78
-116,EVR,Financials,Investment Banking & Brokerage,S&P 400,123.57,92,95,95,88
-117,RH,Consumer Discretionary,Homefurnishing Retail,S&P 400,123.21,92,63,89,6
-118,PRDO,Consumer Discretionary,Education Services,S&P 600,123.12,92,82,62,91
-119,KMI,Energy,Oil & Gas Storage & Transportation,S&P 500,123.11,92,94,73,76
-120,ATEN,Information Technology,Systems Software,S&P 600,123.04,92,70,27,35
-121,VICR,Industrials,Electrical Components & Equipment,S&P 600,122.92,91,84,19,4
-122,KKR,Financials,Asset Management & Custody Banks,S&P 500,122.91,91,95,95,94
-123,EXLS,Industrials,Data Processing & Outsourced Services,S&P 400,122.82,91,88,70,44
-124,NOW,Information Technology,Systems Software,S&P 500,122.54,91,80,85,80
-125,CASH,Financials,Regional Banks,S&P 600,122.3,91,90,81,72
-126,MTZ,Industrials,Construction & Engineering,S&P 400,121.77,91,97,91,87
-127,LYV,Communication Services,Movies & Entertainment,S&P 500,121.76,91,88,53,31
-128,URBN,Consumer Discretionary,Apparel Retail,S&P 600,121.67,91,20,17,75
-129,CHWY,Consumer Discretionary,Other Specialty Retail,S&P 400,121.57,91,95,88,96
-130,AROC,Energy,Oil & Gas Equipment & Services,S&P 600,121.53,91,84,81,94
-131,PLMR,Financials,Property & Casualty Insurance,S&P 600,121.52,91,87,92,88
-132,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,121.51,91,73,61,10
-133,GRMN,Consumer Discretionary,Consumer Electronics,S&P 500,121.5,91,88,81,92
-134,EMBC,Health Care,Health Care Equipment,S&P 600,121.48,91,33,48,7
-135,DEI,Real Estate,Office REITs,S&P 600,120.98,91,84,84,43
-136,TGI,Industrials,Aerospace & Defense,S&P 600,120.95,90,89,35,85
-137,MTSI,Information Technology,Semiconductors,S&P 400,120.89,90,76,47,90
-138,ETR,Utilities,Electric Utilities,S&P 500,120.82,90,89,81,63
-139,CPF,Financials,Regional Banks,S&P 600,120.7,90,93,97,78
-140,TMP,Financials,Regional Banks,S&P 600,120.53,90,91,72,19
-141,GMED,Health Care,Health Care Equipment,S&P 400,120.53,90,87,72,89
-142,DFS,Financials,Consumer Finance,S&P 500,120.51,90,94,75,67
-143,DORM,Consumer Discretionary,Auto Parts & Equipment,S&P 600,120.14,90,93,85,55
-144,AKR,Real Estate,Retail REITs,S&P 600,120.13,90,90,93,72
-145,GBX,Industrials,Construction Machinery & Heavy Trucks,S&P 600,119.97,90,92,44,77
-146,SHAK,Consumer Discretionary,Restaurants,S&P 600,119.87,90,77,88,66
-147,BKNG,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,119.76,90,88,51,86
-148,AAL,Industrials,Passenger Airlines,S&P 400,119.72,90,60,9,5
-149,BHE,Information Technology,Electronic Manufacturing Services,S&P 600,119.32,90,86,93,96
-150,KNF,Materials,Construction Materials,S&P 400,119.19,90,85,89,73
-151,MS,Financials,Investment Banking & Brokerage,S&P 500,119.09,89,93,50,63
-152,WMB,Energy,Oil & Gas Storage & Transportation,S&P 500,119.08,89,94,72,84
-153,CW,Industrials,Aerospace & Defense,S&P 400,118.87,89,84,90,87
-154,SLM,Financials,Consumer Finance,S&P 400,118.63,89,76,65,76
-155,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,118.58,89,96,49,27
-156,GTES,Industrials,Industrial Machinery & Supplies & Components,S&P 600,118.42,89,85,70,63
-157,FHN,Financials,Regional Banks,S&P 400,118.41,89,90,57,75
-158,BANR,Financials,Regional Banks,S&P 600,118.34,89,94,84,53
-159,BX,Financials,Asset Management & Custody Banks,S&P 500,118.33,89,93,81,62
-160,PYPL,Financials,Transaction & Payment Processing Services,S&P 500,118.28,89,83,78,22
-161,CAKE,Consumer Discretionary,Restaurants,S&P 600,118.28,89,79,49,81
-162,FFIV,Information Technology,Communications Equipment,S&P 500,118.26,89,80,78,40
-163,HSII,Industrials,Human Resource & Employment Services,S&P 600,118.05,89,87,77,61
-164,FOUR,Financials,Transaction & Payment Processing Services,S&P 400,117.88,89,88,80,71
-165,CHEF,Consumer Staples,Food Distributors,S&P 600,117.87,89,57,71,88
-166,SF,Financials,Investment Banking & Brokerage,S&P 400,117.81,88,94,79,82
-167,MARA,Information Technology,IT Consulting & Other Services,S&P 600,117.79,88,45,22,88
-168,FBK,Financials,Regional Banks,S&P 600,117.75,88,89,89,71
-169,UMBF,Financials,Regional Banks,S&P 400,117.56,88,91,92,68
-170,WH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 400,117.56,88,73,37,43
-171,BLFS,Health Care,Health Care Supplies,S&P 600,117.5,88,39,92,75
-172,PRLB,Industrials,Industrial Machinery,S&P 600,117.42,88,53,14,19
-173,PAYC,Industrials,Human Resource & Employment Services,S&P 500,117.33,88,76,20,1
-174,NRG,Utilities,Independent Power Producers & Energy Traders,S&P 500,117.09,88,92,96,98
-175,DAL,Industrials,Passenger Airlines,S&P 500,117.03,88,95,38,69
-176,PSTG,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 400,117.0,88,29,38,98
-177,VNOM,Energy,Oil & Gas Storage & Transportation,S&P 400,116.9,88,89,93,86
-178,OLLI,Consumer Discretionary,Broadline Retail,S&P 400,116.82,88,41,68,93
-179,BRBR,Consumer Staples,Packaged Foods & Meats,S&P 400,116.72,88,86,50,83
-180,SLVM,Materials,Paper Products,S&P 600,116.68,88,86,95,94
-181,PNFP,Financials,Regional Banks,S&P 400,116.63,87,93,82,55
-182,KTB,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,116.6,87,90,88,90
-183,FLEX,Information Technology,Electronic Manufacturing Services,S&P 400,116.57,87,85,78,88
-184,SNV,Financials,Regional Banks,S&P 400,116.51,87,93,79,71
-185,RJF,Financials,Investment Banking & Brokerage,S&P 500,116.39,87,91,40,61
-186,CBRE,Real Estate,Real Estate Services,S&P 500,116.38,87,89,90,44
-187,QNST,Communication Services,Interactive Media & Services,S&P 600,116.36,87,83,94,89
-188,EWBC,Financials,Regional Banks,S&P 400,116.35,87,91,70,71
-189,SFBS,Financials,Regional Banks,S&P 600,116.32,87,92,92,61
-190,CEG,Utilities,Electric Utilities,S&P 500,116.29,87,90,98,98
-191,MAC,Real Estate,Retail REITs,S&P 600,116.23,87,85,75,70
-192,FDP,Consumer Staples,Packaged Foods & Meats,S&P 600,116.22,87,86,72,15
-193,FLS,Industrials,Industrial Machinery & Supplies & Components,S&P 400,116.04,87,83,45,76
-194,OSIS,Information Technology,Electronic Equipment & Instruments,S&P 600,116.02,87,49,48,60
-195,VSTO,Consumer Discretionary,Leisure Products,S&P 600,115.94,87,85,73,82
-196,AX,Financials,Regional Banks,S&P 600,115.85,86,93,84,82
-197,GS,Financials,Investment Banking & Brokerage,S&P 500,115.85,86,88,76,86
-198,BOOT,Consumer Discretionary,Apparel Retail,S&P 600,115.78,86,78,99,97
-199,TBBK,Financials,Regional Banks,S&P 600,115.67,86,81,95,54
-200,CRM,Information Technology,Application Software,S&P 500,115.57,86,70,35,42
-201,PHIN,Consumer Discretionary,Automotive Retail,S&P 600,115.47,86,91,95,80
-202,SLG,Real Estate,Office REITs,S&P 600,115.43,86,95,96,95
-203,AXP,Financials,Consumer Finance,S&P 500,115.29,86,82,87,85
-204,WBD,Communication Services,Broadcasting,S&P 500,115.2,86,46,14,3
-205,HLI,Financials,Investment Banking & Brokerage,S&P 400,115.12,86,89,86,78
-206,JHG,Financials,Asset Management & Custody Banks,S&P 400,115.08,86,89,77,78
-207,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 500,115.05,86,80,65,84
-208,NATL,Financials,Transaction & Payment Processing Services,S&P 600,115.04,86,57,61,89
-209,BK,Financials,Asset Management & Custody Banks,S&P 500,114.98,86,87,90,84
-210,ISRG,Health Care,Health Care Equipment,S&P 500,114.85,86,82,84,89
-211,COLB,Financials,Regional Banks,S&P 400,114.74,85,93,86,30
-212,SABR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 600,114.74,85,66,39,12
-213,UTHR,Health Care,Biotechnology,S&P 400,114.73,85,79,90,95
-214,GPI,Consumer Discretionary,Automotive Retail,S&P 600,114.69,85,78,87,51
-215,AORT,Health Care,Health Care Equipment,S&P 600,114.66,85,79,81,93
-216,HFWA,Health Care,Regional Banks,S&P 600,114.65,85,83,77,35
-217,BANF,Financials,Regional Banks,S&P 600,114.55,85,81,72,31
-218,WTFC,Financials,Regional Banks,S&P 400,114.54,85,87,63,65
-219,VCEL,Health Care,Biotechnology,S&P 600,114.52,85,55,51,72
-220,GBCI,Financials,Regional Banks,S&P 400,114.44,85,93,85,50
-221,ESAB,Industrials,Industrial Machinery & Supplies & Components,S&P 400,114.42,85,76,63,69
-222,CRVL,Health Care,Health Care Services,S&P 600,114.41,85,80,87,63
-223,VBTX,Financials,Regional Banks,S&P 600,114.36,85,88,86,55
-224,OMCL,Health Care,Health Care Technology,S&P 600,114.33,85,82,89,2
-225,SATS,Communication Services,Wireless Telecommunication Services,S&P 600,114.32,85,95,98,75
-226,EGBN,Financials,Regional Banks,S&P 600,114.24,84,86,48,7
-227,GLW,Information Technology,Electronic Components,S&P 500,114.15,84,83,85,84
-228,EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,114.1,84,89,47,40
-229,WFC,Financials,Diversified Banks,S&P 500,113.99,84,91,40,83
-230,JXN,Financials,Life & Health Insurance,S&P 600,113.93,84,96,98,99
-231,VMI,Industrials,Industrial Machinery & Supplies & Components,S&P 400,113.92,84,86,59,70
-232,META,Communication Services,Interactive Media & Services,S&P 500,113.9,84,67,89,95
-233,PDCO,Health Care,Health Care Distributors,S&P 600,113.75,84,7,7,11
-234,BSIG,Financials,Asset Management & Custody Banks,S&P 600,113.71,84,88,66,52
-235,MYRG,Industrials,Construction & Engineering,S&P 600,113.71,84,52,2,20
-236,FI,Financials,Transaction & Payment Processing Services,S&P 500,113.7,84,90,80,65
-237,AMZN,Consumer Discretionary,Broadline Retail,S&P 500,113.67,84,62,60,91
-238,R,Industrials,Cargo Ground Transportation,S&P 400,113.6,84,83,79,76
-239,K,Consumer Staples,Packaged Foods & Meats,S&P 500,113.59,84,75,94,47
-240,PWR,Industrials,Construction & Engineering,S&P 500,113.57,84,89,75,83
-241,LPX,Materials,Forest Products,S&P 400,113.52,83,92,94,74
-242,CMI,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 500,113.51,83,85,64,66
-243,WAB,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 500,113.5,83,84,84,90
-244,HLNE,Financials,Asset Management & Custody Banks,S&P 400,113.47,83,96,96,86
-245,NBTB,Financials,Regional Banks,S&P 600,113.33,83,72,77,61
-246,IP,Materials,Paper & Plastic Packaging Products & Materials,S&P 500,113.27,83,92,70,86
-247,CBU,Financials,Regional Banks,S&P 600,113.22,83,87,86,35
-248,PANW,Information Technology,Systems Software,S&P 500,113.11,83,76,63,89
-249,PTGX,Health Care,Biotechnology,S&P 600,113.04,83,91,99,90
-250,IBTX,Financials,Regional Banks,S&P 600,113.0,83,86,88,52
-251,CVBF,Financials,Regional Banks,S&P 600,112.99,83,82,39,49
-252,UNIT,Real Estate,Specialized REITs,S&P 600,112.94,83,80,94,0
-253,ZION,Financials,Regional Banks,S&P 400,112.87,83,90,63,77
-254,EPAC,Industrials,Industrial Machinery,S&P 600,112.86,83,83,75,85
-255,B,Industrials,Industrial Machinery,S&P 600,112.85,83,83,44,76
-256,FBNC,Financials,Regional Banks,S&P 600,112.78,82,76,90,28
-257,ONB,Financials,Regional Banks,S&P 400,112.76,82,74,62,59
-258,PCTY,Industrials,Human Resource & Employment Services,S&P 400,112.76,82,66,36,5
-259,MTB,Financials,Regional Banks,S&P 500,112.7,82,93,82,69
-260,LAD,Consumer Discretionary,Automotive Retail,S&P 400,112.66,82,84,44,9
-261,CFR,Financials,Regional Banks,S&P 400,112.63,82,83,53,32
-262,AWI,Industrials,Building Products,S&P 600,112.61,82,88,86,84
-263,BWXT,Industrials,Aerospace & Defense,S&P 400,112.61,82,89,68,74
-264,BKE,Consumer Discretionary,Apparel Retail,S&P 600,112.58,82,70,63,41
-265,SNEX,Financials,Investment Banking & Brokerage,S&P 600,112.57,82,85,62,68
-266,AIT,Industrials,Trading Companies & Distributors,S&P 400,112.51,82,90,74,70
-267,DAY,Industrials,Human Resource & Employment Services,S&P 500,112.38,82,67,26,4
-268,DLR,Real Estate,Data Center REITs,S&P 500,112.31,82,79,62,78
-269,PRGS,Information Technology,Systems Software,S&P 600,112.25,82,67,42,45
-270,CPRX,Health Care,Biotechnology,S&P 600,112.22,82,73,90,45
-271,COF,Financials,Consumer Finance,S&P 500,112.13,81,89,67,64
-272,OKE,Energy,Oil & Gas Storage & Transportation,S&P 500,111.97,81,93,82,79
-273,WAL,Financials,Regional Banks,S&P 400,111.88,81,91,96,79
-274,PNR,Industrials,Industrial Machinery & Supplies & Components,S&P 500,111.84,81,87,84,53
-275,PODD,Health Care,Health Care Equipment,S&P 500,111.81,81,90,78,56
-276,ZBRA,Information Technology,Electronic Equipment & Instruments,S&P 500,111.77,81,80,82,68
-277,DGII,Information Technology,Communications Equipment,S&P 600,111.77,81,50,33,4
-278,CASY,Consumer Staples,Food Retail,S&P 400,111.67,81,70,60,93
-279,VVI,Industrials,Diversified Support Services,S&P 600,111.66,81,76,33,51
-280,REZI,Industrials,Trading Companies & Distributors,S&P 600,111.51,81,80,28,43
-281,CNO,Financials,Life & Health Insurance,S&P 400,111.51,81,85,86,59
-282,BKU,Financials,Regional Banks,S&P 600,111.48,81,87,89,69
-283,EXTR,Information Technology,Communications Equipment,S&P 600,111.48,81,49,27,11
-284,CWK,Real Estate,Real Estate Services,S&P 600,111.47,81,77,91,69
-285,SEIC,Financials,Asset Management & Custody Banks,S&P 400,111.45,81,70,34,39
-286,ROIC,Real Estate,Retail REITs,S&P 600,111.18,80,81,79,33
-287,TCBI,Financials,Regional Banks,S&P 400,111.15,80,91,63,42
-288,TRMK,Financials,Regional Banks,S&P 600,111.05,80,86,76,81
-289,BRKL,Financials,Regional Banks,S&P 600,111.02,80,78,56,20
-290,WT,Financials,Asset Management & Custody Banks,S&P 600,111.0,80,88,71,91
-291,T,Communication Services,Integrated Telecommunication Services,S&P 500,110.96,80,83,82,79
-292,BDC,Information Technology,Electronic Components,S&P 400,110.94,80,83,78,46
-293,USFD,Consumer Staples,Food Distributors,S&P 400,110.93,80,72,75,71
-294,HBAN,Financials,Regional Banks,S&P 500,110.9,80,89,68,62
-295,STT,Financials,Asset Management & Custody Banks,S&P 500,110.89,80,77,73,40
-296,SANM,Information Technology,Electronic Manufacturing Services,S&P 600,110.85,80,70,57,72
-297,TGNA,Communication Services,Broadcasting,S&P 600,110.79,80,71,32,22
-298,AMP,Financials,Asset Management & Custody Banks,S&P 500,110.73,80,89,57,75
-299,AYI,Industrials,Electrical Components & Equipment,S&P 400,110.71,80,90,76,80
-300,BSX,Health Care,Health Care Equipment,S&P 500,110.69,80,78,81,90
-301,CRWD,Information Technology,Systems Software,S&P 500,110.6,79,73,37,99
-302,PRK,Financials,Regional Banks,S&P 600,110.58,79,88,92,80
-303,TMUS,Communication Services,Wireless Telecommunication Services,S&P 500,110.54,79,88,77,79
-304,GOOG,Communication Services,Interactive Media & Services,S&P 500,110.49,79,50,31,92
-305,FYBR,Communication Services,Integrated Telecommunication Services,S&P 400,110.4,79,90,98,87
-306,GOOGL,Communication Services,Interactive Media & Services,S&P 500,110.38,79,51,31,92
-307,MP,Materials,Diversified Metals & Mining,S&P 600,110.34,79,67,17,4
-308,TRMB,Information Technology,Electronic Equipment & Instruments,S&P 500,110.32,79,77,35,36
-309,NDAQ,Financials,Financial Exchanges & Data,S&P 500,110.28,79,78,83,62
-310,JCI,Industrials,Building Products,S&P 500,110.26,79,82,69,65
-311,MC,Financials,Investment Banking & Brokerage,S&P 600,110.23,79,83,89,62
-312,CUZ,Real Estate,Office REITs,S&P 400,110.21,79,81,88,44
-313,OUT,Real Estate,Other Specialized REITs,S&P 600,110.2,79,90,94,53
-314,KAR,Industrials,Diversified Support Services,S&P 600,110.18,79,68,29,50
-315,INDB,Financials,Regional Banks,S&P 600,110.18,79,78,67,25
-316,DBX,Information Technology,Application Software,S&P 400,110.16,78,41,25,13
-317,BLK,Financials,Asset Management & Custody Banks,S&P 500,109.99,78,81,71,53
-318,TYL,Information Technology,Application Software,S&P 500,109.95,78,68,86,81
-319,NI,Utilities,Multi-Utilities,S&P 500,109.91,78,77,77,65
-320,KLG,Consumer Staples,Packaged Foods & Meats,S&P 600,109.9,78,48,53,73
-321,SXC,Materials,Steel,S&P 600,109.85,78,82,7,32
-322,FHI,Financials,Asset Management & Custody Banks,S&P 400,109.82,78,78,47,34
-323,IRM,Real Estate,Other Specialized REITs,S&P 500,109.81,78,91,97,92
-324,ICUI,Health Care,Health Care Supplies,S&P 600,109.81,78,93,98,44
-325,BJ,Consumer Staples,Hypermarkets & Super Centers,S&P 400,109.58,78,51,33,86
-326,BMI,Information Technology,Electronic Equipment & Instruments,S&P 600,109.55,78,63,85,82
-327,PRA,Financials,Property & Casualty Insurance,S&P 600,109.47,78,68,27,14
-328,SNA,Industrials,Industrial Machinery & Supplies & Components,S&P 500,109.42,78,79,35,24
-329,CBSH,Financials,Regional Banks,S&P 400,109.39,78,79,67,67
-330,ADEA,Information Technology,IT Consulting & Other Services,S&P 600,109.35,78,29,49,38
-331,PFS,Financials,Regional Banks,S&P 600,109.29,77,81,83,19
-332,BURL,Consumer Discretionary,Apparel Retail,S&P 400,109.22,77,86,89,92
-333,LII,Industrials,Building Products,S&P 400,109.22,77,74,85,91
-334,EQT,Energy,Oil & Gas Exploration & Production,S&P 500,109.17,77,66,18,33
-335,BDN,Real Estate,Office REITs,S&P 600,109.1,77,65,65,37
-336,JLL,Real Estate,Real Estate Services,S&P 400,109.04,77,81,94,81
-337,WBS,Financials,Regional Banks,S&P 400,109.03,77,85,40,27
-338,APH,Information Technology,Electronic Components,S&P 500,109.01,77,65,64,94
-339,CINF,Financials,Property & Casualty Insurance,S&P 500,108.97,77,80,70,61
-340,JBT,Industrials,Industrial Machinery,S&P 600,108.94,77,70,14,22
-341,ENR,Consumer Staples,Household Products,S&P 600,108.94,77,53,23,34
-342,CFG,Financials,Regional Banks,S&P 500,108.88,77,87,81,76
-343,CHRW,Industrials,Air Freight & Logistics,S&P 500,108.83,77,77,77,57
-344,JPM,Financials,Diversified Banks,S&P 500,108.78,77,79,64,83
-345,CDP,Real Estate,Office REITs,S&P 400,108.78,77,59,77,50
-346,TRN,Industrials,Construction Machinery & Heavy Trucks,S&P 600,108.75,76,80,74,76
-347,GATX,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 400,108.74,76,60,49,58
-348,GNRC,Industrials,Electrical Components & Equipment,S&P 500,108.68,76,85,58,58
-349,CATY,Financials,Regional Banks,S&P 600,108.67,76,81,57,47
-350,WELL,Real Estate,Health Care REITs,S&P 500,108.66,76,85,91,82
-351,COKE,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 400,108.65,76,71,96,95
-352,TT,Industrials,Building Products,S&P 500,108.63,76,87,93,95
-353,ORCL,Information Technology,Application Software,S&P 500,108.56,76,94,89,85
-354,PM,Consumer Staples,Tobacco,S&P 500,108.54,76,80,79,69
-355,APOG,Industrials,Building Products,S&P 600,108.52,76,90,69,84
-356,FFBC,Financials,Regional Banks,S&P 600,108.51,76,74,66,47
-357,G,Industrials,Data Processing & Outsourced Services,S&P 400,108.45,76,71,60,25
-358,LMAT,Health Care,Health Care Equipment,S&P 600,108.4,76,92,89,92
-359,C,Financials,Diversified Banks,S&P 500,108.37,76,71,62,85
-360,AZZ,Industrials,Heavy Electrical Equipment,S&P 600,108.35,75,67,78,93
-361,SSB,Financials,Regional Banks,S&P 400,108.35,75,75,84,37
-362,JBLU,Industrials,Passenger Airlines,S&P 600,108.29,75,72,26,23
-363,CNS,Financials,Asset Management & Custody Banks,S&P 600,108.25,75,88,90,55
-364,PH,Industrials,Industrial Machinery & Supplies & Components,S&P 500,108.21,75,81,83,66
-365,SKT,Real Estate,Retail REITs,S&P 600,108.13,75,81,73,57
-366,FLR,Industrials,Construction & Engineering,S&P 400,108.07,75,73,52,75
-367,BMY,Health Care,Pharmaceuticals,S&P 500,108.05,75,66,33,5
-368,TNL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 400,108.04,75,78,40,58
-369,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 500,108.03,75,51,62,82
-370,EMR,Industrials,Electrical Components & Equipment,S&P 500,107.83,75,75,28,60
-371,PKG,Materials,Paper & Plastic Packaging Products & Materials,S&P 500,107.81,75,83,74,74
-372,PNC,Financials,Diversified Banks,S&P 500,107.81,75,86,82,63
-373,ACA,Industrials,Industrial Machinery,S&P 600,107.81,75,71,52,46
-374,MSI,Information Technology,Communications Equipment,S&P 500,107.8,75,84,86,87
-375,COST,Consumer Staples,Consumer Staples Merchandise Retail,S&P 500,107.8,75,68,81,93
-376,MMM,Industrials,Industrial Conglomerates,S&P 500,107.71,74,84,95,86
-377,FULT,Financials,Regional Banks,S&P 600,107.61,74,79,73,80
-378,EXE,Energy,Oil & Gas Exploration & Production,S&P 400,107.56,74,67,22,37
-379,MUSA,Consumer Discretionary,Automotive Retail,S&P 400,107.54,74,64,67,91
-380,COOP,Financials,Commercial & Residential Mortgage Finance,S&P 600,107.52,74,73,84,90
-381,TXRH,Consumer Discretionary,Restaurants,S&P 400,107.43,74,82,83,96
-382,NPK,Industrials,Aerospace & Defense,S&P 600,107.43,74,29,25,34
-383,ESE,Industrials,Industrial Machinery,S&P 600,107.42,74,80,61,31
-384,IBM,Information Technology,IT Consulting & Other Services,S&P 500,107.41,74,60,87,62
-385,GILD,Health Care,Biotechnology,S&P 500,107.4,74,69,58,25
-386,GEN,Information Technology,Systems Software,S&P 500,107.4,74,72,68,83
-387,RUSHA,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 600,107.4,74,81,59,21
-388,SFNC,Financials,Regional Banks,S&P 600,107.37,74,83,75,29
-389,NTRS,Financials,Asset Management & Custody Banks,S&P 500,107.3,74,84,55,54
-390,RBA,Industrials,Diversified Support Services,S&P 400,107.23,74,77,61,75
-391,BYD,Consumer Discretionary,Casinos & Gaming,S&P 400,107.16,73,68,43,13
-392,CRGY,Energy,Oil & Gas Exploration & Production,S&P 600,107.11,73,74,21,42
-393,CVCO,Consumer Discretionary,Homebuilding,S&P 600,106.97,73,80,81,48
-394,TRST,Financials,Regional Banks,S&P 600,106.91,73,71,72,39
-395,FHB,Financials,Regional Banks,S&P 600,106.88,73,74,62,48
-396,RF,Financials,Regional Banks,S&P 500,106.85,73,88,74,49
-397,VIAV,Information Technology,Communications Equipment,S&P 600,106.83,73,61,25,3
-398,ALTR,Information Technology,Application Software,S&P 400,106.75,73,65,55,88
-399,TFIN,Financials,Regional Banks,S&P 600,106.75,73,74,43,61
-400,SNDR,Industrials,Cargo Ground Transportation,S&P 600,106.75,73,75,56,30
-401,LNTH,Health Care,Health Care Supplies,S&P 400,106.68,73,24,98,85
-402,BKR,Energy,Oil & Gas Equipment & Services,S&P 500,106.59,73,82,37,48
-403,CTAS,Industrials,Diversified Support Services,S&P 500,106.55,73,77,85,87
-404,HWC,Financials,Regional Banks,S&P 400,106.55,73,73,65,66
-405,GHC,Consumer Discretionary,Education Services,S&P 400,106.53,73,77,62,53
-406,CADE,Financials,Regional Banks,S&P 400,106.4,72,84,71,74
-407,ZWS,Industrials,Industrial Machinery & Supplies & Components,S&P 600,106.4,72,71,53,34
-408,WS,Materials,Steel,S&P 600,106.37,72,91,67,68
-409,CMA,Financials,Regional Banks,S&P 600,106.36,72,86,78,44
-410,STEL,Financials,Regional Banks,S&P 600,106.33,72,69,58,27
-411,EQH,Financials,Diversified Financial Services,S&P 400,106.32,72,81,65,90
-412,MO,Consumer Staples,Tobacco,S&P 500,106.32,72,77,69,68
-413,ABCB,Financials,Regional Banks,S&P 600,106.28,72,87,91,73
-414,CG,Financials,Asset Management & Custody Banks,S&P 400,106.17,72,79,50,59
-415,MATX,Industrials,Marine,S&P 600,106.14,72,82,73,91
-416,TTWO,Communication Services,Interactive Home Entertainment,S&P 500,106.13,72,60,22,55
-417,MGEE,Utilities,Electric Utilities,S&P 600,106.08,72,85,74,41
-418,FFIN,Financials,Regional Banks,S&P 400,106.02,72,80,87,39
-419,SWI,Information Technology,Systems Software,S&P 600,106.01,72,44,60,72
-420,PEG,Utilities,Electric Utilities,S&P 500,106.0,72,75,88,80
-421,EBAY,Consumer Discretionary,Broadline Retail,S&P 500,105.99,71,72,83,72
-422,NXRT,Real Estate,Multi-Family Residential REITs,S&P 600,105.98,71,78,86,75
-423,MLAB,Health Care,Health Care Equipment,S&P 600,105.95,71,17,79,5
-424,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,105.86,71,71,34,69
-425,LOPE,Consumer Discretionary,Education Services,S&P 400,105.85,71,57,41,60
-426,HMN,Financials,Multi-line Insurance,S&P 600,105.81,71,65,44,48
-427,WSR,Real Estate,Retail REITs,S&P 600,105.79,71,62,54,80
-428,MSGS,Communication Services,Movies & Entertainment,S&P 600,105.76,71,53,48,49
-429,BHLB,Financials,Regional Banks,S&P 600,105.64,71,76,75,44
-430,NPO,Industrials,Industrial Machinery,S&P 600,105.61,71,56,45,35
-431,ITRI,Information Technology,Electronic Equipment & Instruments,S&P 600,105.59,71,83,85,91
-432,EHC,Health Care,Health Care Facilities,S&P 400,105.57,71,72,69,80
-433,FCF,Financials,Regional Banks,S&P 600,105.56,71,78,81,45
-434,ASB,Financials,Regional Banks,S&P 400,105.53,71,81,45,60
-435,IRT,Real Estate,Multi-Family Residential REITs,S&P 400,105.51,70,78,84,79
-436,CPAY,Financials,Transaction & Payment Processing Services,S&P 500,105.51,70,84,46,31
-437,APPF,Information Technology,Application Software,S&P 400,105.5,70,32,50,88
-438,MRCY,Industrials,Electrical Components & Equipment,S&P 600,105.43,70,54,60,9
-439,PFGC,Consumer Staples,Food Distributors,S&P 400,105.33,70,59,49,42
-440,WHR,Consumer Discretionary,Household Appliances,S&P 400,105.31,70,55,26,9
-441,RYAN,Financials,Insurance Brokers,S&P 400,105.26,70,81,70,82
-442,STBA,Financials,Regional Banks,S&P 600,105.22,70,72,93,66
-443,UGI,Utilities,Gas Utilities,S&P 400,105.2,70,37,38,28
-444,PB,Financials,Regional Banks,S&P 400,105.19,70,75,69,40
-445,LVS,Consumer Discretionary,Casinos & Gaming,S&P 500,105.17,70,42,12,16
-446,IBOC,Financials,Regional Banks,S&P 400,105.16,70,78,66,72
-447,BAC,Financials,Diversified Banks,S&P 500,105.11,70,82,56,85
-448,NBHC,Financials,Regional Banks,S&P 600,105.02,70,78,67,70
-449,BL,Information Technology,Application Software,S&P 600,105.02,70,43,17,7
-450,CSCO,Information Technology,Communications Equipment,S&P 500,104.96,70,63,37,28
+1,LUMN,Communication Services,Alternative Carriers,S&P 600,250.14,99,99,99,2
+2,PLTR,Information Technology,Internet Services & Infrastructure,S&P 500,249.07,99,99,99,94
+3,EAT,Consumer Discretionary,Restaurants,S&P 600,198.51,99,99,98,99
+4,GEO,Industrials,Environmental & Facilities Services,S&P 600,192.13,99,99,46,95
+5,SMTC,Information Technology,Semiconductors,S&P 600,189.37,99,98,99,71
+6,ADMA,Health Care,Biotechnology,S&P 600,189.04,99,99,99,99
+7,TSLA,Consumer Discretionary,Automobile Manufacturers,S&P 500,187.64,99,97,66,22
+8,HIMS,Health Care,Health Care Services,S&P 600,176.84,99,99,95,99
+9,VSCO,Consumer Discretionary,Apparel Retail,S&P 600,173.85,99,95,91,24
+10,UAL,Industrials,Passenger Airlines,S&P 500,172.53,99,99,61,51
+11,AXON,Industrials,Aerospace & Defense,S&P 500,172.29,99,99,95,81
+12,VST,Utilities,Electric Utilities,S&P 500,172.17,99,99,99,99
+13,SFM,Consumer Staples,Food Retail,S&P 400,168.12,99,99,99,99
+14,WWW,Consumer Discretionary,Footwear,S&P 600,164.94,99,99,96,93
+15,UNFI,Consumer Staples,Food Retail,S&P 600,163.37,99,95,56,27
+16,SITM,Information Technology,Semiconductors,S&P 600,160.69,98,98,94,71
+17,GEV,Industrials,Heavy Electrical Equipment,S&P 500,160.41,98,99,98,82
+18,CRS,Materials,Steel,S&P 600,156.1,98,99,99,99
+19,PAYO,Financials,Transaction & Payment Processing Services,S&P 600,154.74,98,98,92,57
+20,TDS,Communication Services,Integrated Telecommunication Services,S&P 600,154.39,98,97,79,97
+21,CALM,Consumer Staples,Packaged Foods & Meats,S&P 600,149.6,98,96,88,77
+22,DXPE,Industrials,Trading Companies & Distributors,S&P 600,149.06,98,96,76,66
+23,DOCS,Health Care,Health Care Technology,S&P 400,148.98,98,97,97,50
+24,CIEN,Information Technology,Communications Equipment,S&P 400,147.94,98,79,79,47
+25,CORT,Health Care,Pharmaceuticals,S&P 600,145.35,98,98,93,80
+26,DOCU,Information Technology,Application Software,S&P 400,145.31,98,94,49,39
+27,TPL,Energy,Oil & Gas Exploration & Production,S&P 500,144.61,98,99,96,93
+28,TGTX,Health Care,Biotechnology,S&P 600,144.37,98,98,98,86
+29,IDCC,Information Technology,Communications Equipment,S&P 600,143.77,98,95,87,85
+30,LQDT,Industrials,Diversified Support Services,S&P 600,142.49,98,75,72,69
+31,CXW,Industrials,Diversified Support Services,S&P 600,141.87,97,94,27,42
+32,POWL,Industrials,Electrical Components & Equipment,S&P 600,141.86,97,99,99,98
+33,CRK,Energy,Oil & Gas Exploration & Production,S&P 600,141.67,97,87,47,50
+34,JEF,Financials,Multi-Sector Holdings,S&P 400,141.37,97,96,95,90
+35,IBKR,Financials,Investment Banking & Brokerage,S&P 400,140.87,97,97,86,91
+36,ALK,Industrials,Passenger Airlines,S&P 600,140.59,97,90,30,28
+37,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,139.7,97,98,90,92
+38,LITE,Information Technology,Communications Equipment,S&P 400,139.28,97,97,71,42
+39,AVGO,Information Technology,Semiconductors,S&P 500,138.12,97,70,93,98
+40,TRUP,Financials,Life & Health Insurance,S&P 600,137.77,97,97,94,68
+41,CNK,Communication Services,Movies & Entertainment,S&P 600,137.29,97,98,96,88
+42,TILE,Industrials,Office Services & Supplies,S&P 600,137.22,97,98,91,83
+43,HBI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,136.62,97,96,95,53
+44,GME,Consumer Discretionary,Computer & Electronics Retail,S&P 400,136.01,97,95,62,98
+45,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 500,135.83,97,92,68,66
+46,GDDY,Information Technology,Internet Services & Infrastructure,S&P 500,135.38,96,92,93,97
+47,MD,Health Care,Health Care Services,S&P 600,134.9,96,95,56,2
+48,KD,Information Technology,IT Consulting & Other Services,S&P 400,134.23,96,71,47,97
+49,LRN,Consumer Discretionary,Education Services,S&P 600,133.83,96,94,92,93
+50,DTM,Energy,Oil & Gas Storage & Transportation,S&P 400,133.38,96,96,86,91
+51,AOSL,Information Technology,Semiconductors,S&P 600,133.06,96,57,68,96
+52,FOX,Communication Services,Broadcasting,S&P 500,132.99,96,86,85,65
+53,COHR,Information Technology,Electronic Components,S&P 400,132.81,96,98,99,98
+54,VIRT,Financials,Financial Exchanges & Data,S&P 600,132.44,96,97,96,81
+55,TTMI,Information Technology,Electronic Manufacturing Services,S&P 600,131.95,96,84,57,92
+56,TRGP,Energy,Oil & Gas Storage & Transportation,S&P 500,131.55,96,98,96,95
+57,NVDA,Information Technology,Semiconductors,S&P 500,131.37,96,98,98,99
+58,ALTM,Materials,Specialty Chemicals,S&P 400,131.31,96,88,0,0
+59,GSHD,Financials,Insurance Brokers,S&P 600,131.11,96,95,89,8
+60,FOXA,Communication Services,Broadcasting,S&P 500,130.62,96,84,86,62
+61,SYF,Financials,Consumer Finance,S&P 500,130.18,95,95,71,90
+62,ALGT,Industrials,Airlines,S&P 600,130.08,95,86,4,1
+63,PBI,Industrials,Office Services & Supplies,S&P 600,130.01,95,95,99,93
+64,HWM,Industrials,Aerospace & Defense,S&P 500,129.82,95,95,97,95
+65,FTDR,Consumer Discretionary,Specialized Consumer Services,S&P 600,129.32,95,90,94,49
+66,BFH,Financials,Consumer Finance,S&P 600,129.32,95,92,74,91
+67,PLXS,Information Technology,Electronic Manufacturing Services,S&P 600,129.31,95,90,86,51
+68,WMT,Consumer Staples,Consumer Staples Merchandise Retail,S&P 500,128.95,95,85,88,85
+69,UFCS,Financials,Property & Casualty Insurance,S&P 600,128.93,95,80,26,45
+70,TKO,Communication Services,Movies & Entertainment,S&P 400,128.71,95,82,87,86
+71,SKYW,Industrials,Airlines,S&P 600,128.19,95,97,90,98
+72,GVA,Industrials,Construction & Engineering,S&P 600,128.03,95,97,96,91
+73,NFLX,Communication Services,Movies & Entertainment,S&P 500,127.9,95,91,85,94
+74,FIX,Industrials,Construction & Engineering,S&P 400,127.85,95,98,97,94
+75,FTNT,Information Technology,Systems Software,S&P 500,126.89,95,89,80,23
+76,ENVA,Financials,Consumer Finance,S&P 600,126.86,94,96,92,62
+77,GKOS,Health Care,Health Care Equipment,S&P 600,126.83,94,93,89,96
+78,AAON,Industrials,Building Products,S&P 400,126.76,94,96,92,82
+79,DCOM,Financials,Regional Banks,S&P 600,126.33,94,97,91,49
+80,CEVA,Information Technology,Semiconductors,S&P 600,126.32,94,72,62,12
+81,CNX,Energy,Oil & Gas Exploration & Production,S&P 400,126.28,94,96,90,69
+82,CVLT,Information Technology,Systems Software,S&P 400,126.22,94,95,98,97
+83,STEP,Financials,Asset Management & Custody Banks,S&P 600,125.84,94,98,98,97
+84,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,125.76,94,96,41,70
+85,EMBC,Health Care,Health Care Equipment,S&P 600,125.59,94,24,46,7
+86,FICO,Information Technology,Application Software,S&P 500,125.56,94,96,97,95
+87,GTLS,Industrials,Industrial Machinery & Supplies & Components,S&P 400,125.17,94,82,7,22
+88,XPO,Industrials,Cargo Ground Transportation,S&P 400,125.15,94,81,67,85
+89,HAFC,Financials,Regional Banks,S&P 600,124.97,94,94,60,54
+90,RDNT,Health Care,Health Care Services,S&P 600,124.86,94,97,98,98
+91,DUOL,Consumer Discretionary,Education Services,S&P 400,124.72,93,96,88,68
+92,EXEL,Health Care,Biotechnology,S&P 400,124.7,93,94,53,38
+93,UNM,Financials,Life & Health Insurance,S&P 400,124.49,93,92,59,48
+94,DECK,Consumer Discretionary,Footwear,S&P 500,124.39,93,72,65,96
+95,MASI,Health Care,Health Care Equipment,S&P 400,124.39,93,88,31,37
+96,LGND,Health Care,Biotechnology,S&P 600,124.36,93,87,92,80
+97,CARG,Communication Services,Interactive Media & Services,S&P 600,124.26,93,92,85,80
+98,AGYS,Information Technology,Application Software,S&P 600,124.18,93,73,78,92
+99,PPC,Consumer Staples,Packaged Foods & Meats,S&P 400,124.06,93,94,91,95
+100,EME,Industrials,Construction & Engineering,S&P 400,123.78,93,97,96,97
+101,NWL,Consumer Discretionary,Housewares & Specialties,S&P 600,123.53,93,63,21,6
+102,WSM,Consumer Discretionary,Homefurnishing Retail,S&P 400,123.4,93,58,84,97
+103,PJT,Financials,Investment Banking & Brokerage,S&P 600,123.15,93,93,93,86
+104,PAHC,Health Care,Pharmaceuticals,S&P 600,122.96,93,96,97,93
+105,MCY,Financials,Property & Casualty Insurance,S&P 600,122.86,93,92,97,95
+106,KMI,Energy,Oil & Gas Storage & Transportation,S&P 500,122.79,92,94,75,75
+107,CENX,Materials,Aluminum,S&P 600,122.77,92,98,83,98
+108,ANET,Information Technology,Communications Equipment,S&P 500,122.75,92,78,94,98
+109,VICR,Industrials,Electrical Components & Equipment,S&P 600,122.66,92,85,23,3
+110,MLI,Industrials,Industrial Machinery & Supplies & Components,S&P 400,122.63,92,97,94,86
+111,ACIW,Information Technology,Application Software,S&P 600,122.52,92,94,97,96
+112,ATGE,Consumer Discretionary,Education Services,S&P 600,122.3,92,91,90,96
+113,GRMN,Consumer Discretionary,Consumer Electronics,S&P 500,122.2,92,88,81,92
+114,EXLS,Industrials,Data Processing & Outsourced Services,S&P 400,122.17,92,88,68,45
+115,CHWY,Consumer Discretionary,Other Specialty Retail,S&P 400,122.1,92,96,88,92
+116,ETR,Utilities,Electric Utilities,S&P 500,122.02,92,90,84,68
+117,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,121.99,92,73,69,8
+118,AAL,Industrials,Passenger Airlines,S&P 400,121.9,92,62,9,5
+119,GMED,Health Care,Health Care Equipment,S&P 400,121.25,92,89,71,89
+120,ATEN,Information Technology,Systems Software,S&P 600,121.23,92,70,27,35
+121,PRDO,Consumer Discretionary,Education Services,S&P 600,121.16,91,82,61,92
+122,RH,Consumer Discretionary,Homefurnishing Retail,S&P 400,121.03,91,69,88,7
+123,MDU,Utilities,Multi-Utilities,S&P 600,121.03,91,94,74,75
+124,PLNT,Consumer Discretionary,Leisure Facilities,S&P 400,120.96,91,90,86,79
+125,PIPR,Financials,Investment Banking & Brokerage,S&P 600,120.82,91,96,97,95
+126,SHAK,Consumer Discretionary,Restaurants,S&P 600,120.67,91,81,83,67
+127,CSWI,Industrials,Industrial Conglomerates,S&P 600,120.59,91,98,98,92
+128,URBN,Consumer Discretionary,Apparel Retail,S&P 600,120.48,91,23,22,62
+129,DFS,Financials,Consumer Finance,S&P 500,120.08,91,93,69,77
+130,LYV,Communication Services,Movies & Entertainment,S&P 500,120.02,91,90,61,35
+131,VSTO,Consumer Discretionary,Leisure Products,S&P 600,119.64,91,85,73,81
+132,EVR,Financials,Investment Banking & Brokerage,S&P 400,119.55,91,94,95,91
+133,DORM,Consumer Discretionary,Auto Parts & Equipment,S&P 600,119.33,91,93,86,55
+134,PLMR,Financials,Property & Casualty Insurance,S&P 600,119.25,91,84,93,89
+135,KKR,Financials,Asset Management & Custody Banks,S&P 500,119.17,91,95,95,94
+136,VNO,Real Estate,Office REITs,S&P 400,118.97,90,94,97,63
+137,MTSI,Information Technology,Semiconductors,S&P 400,118.94,90,80,44,91
+138,FLEX,Information Technology,Electronic Manufacturing Services,S&P 400,118.91,90,84,75,87
+139,HSII,Industrials,Human Resource & Employment Services,S&P 600,118.74,90,86,80,64
+140,NOW,Information Technology,Systems Software,S&P 500,118.68,90,83,85,81
+141,TMP,Financials,Regional Banks,S&P 600,118.59,90,91,66,29
+142,KNF,Materials,Construction Materials,S&P 400,118.33,90,89,89,75
+143,GBX,Industrials,Construction Machinery & Heavy Trucks,S&P 600,118.3,90,91,45,62
+144,OLLI,Consumer Discretionary,Broadline Retail,S&P 400,118.28,90,39,70,94
+145,CASH,Financials,Regional Banks,S&P 600,118.18,90,89,77,73
+146,PDCO,Health Care,Health Care Distributors,S&P 600,118.1,90,6,7,12
+147,BHE,Information Technology,Electronic Manufacturing Services,S&P 600,118.1,90,88,94,96
+148,WMB,Energy,Oil & Gas Storage & Transportation,S&P 500,118.08,90,94,72,84
+149,FFIV,Information Technology,Communications Equipment,S&P 500,117.97,90,80,82,38
+150,AKR,Real Estate,Retail REITs,S&P 600,117.72,90,91,93,74
+151,CPF,Financials,Regional Banks,S&P 600,117.62,89,93,96,82
+152,VCEL,Health Care,Biotechnology,S&P 600,117.48,89,68,40,65
+153,SLM,Financials,Consumer Finance,S&P 400,117.42,89,75,60,78
+154,FDP,Consumer Staples,Packaged Foods & Meats,S&P 600,117.37,89,85,71,14
+155,HWKN,Materials,Commodity Chemicals,S&P 600,117.29,89,93,97,95
+156,CHEF,Consumer Staples,Food Distributors,S&P 600,117.09,89,60,72,88
+157,BKNG,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,117.09,89,85,55,84
+158,MTZ,Industrials,Construction & Engineering,S&P 400,117.07,89,97,91,83
+159,GTES,Industrials,Industrial Machinery & Supplies & Components,S&P 600,117.0,89,86,66,63
+160,DAL,Industrials,Passenger Airlines,S&P 500,116.91,89,95,42,62
+161,BOOT,Consumer Discretionary,Apparel Retail,S&P 600,116.67,89,78,99,96
+162,K,Consumer Staples,Packaged Foods & Meats,S&P 500,116.64,89,75,94,44
+163,FHN,Financials,Regional Banks,S&P 400,116.52,89,89,51,86
+164,BRBR,Consumer Staples,Packaged Foods & Meats,S&P 400,116.3,89,86,51,78
+165,FI,Financials,Transaction & Payment Processing Services,S&P 500,116.18,88,91,77,64
+166,B,Industrials,Industrial Machinery,S&P 600,116.18,88,84,39,73
+167,CAKE,Consumer Discretionary,Restaurants,S&P 600,116.07,88,78,53,74
+168,WH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 400,115.97,88,71,40,40
+169,KTB,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 600,115.97,88,91,91,89
+170,PRLB,Industrials,Industrial Machinery,S&P 600,115.87,88,52,14,22
+171,SF,Financials,Investment Banking & Brokerage,S&P 400,115.61,88,93,80,87
+172,FOUR,Financials,Transaction & Payment Processing Services,S&P 400,115.45,88,90,81,69
+173,VNOM,Energy,Oil & Gas Storage & Transportation,S&P 400,115.34,88,90,93,84
+174,TBBK,Financials,Regional Banks,S&P 600,115.29,88,79,93,63
+175,MS,Financials,Investment Banking & Brokerage,S&P 500,115.15,88,92,51,66
+176,GPI,Consumer Discretionary,Automotive Retail,S&P 600,115.07,88,79,88,52
+177,OSIS,Information Technology,Electronic Equipment & Instruments,S&P 600,114.97,88,47,48,54
+178,AROC,Energy,Oil & Gas Equipment & Services,S&P 600,114.93,88,87,77,94
+179,ROIC,Real Estate,Retail REITs,S&P 600,114.86,88,80,76,33
+180,UMBF,Financials,Regional Banks,S&P 400,114.83,88,91,89,71
+181,JBT,Industrials,Industrial Machinery,S&P 600,114.76,87,72,16,19
+182,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 500,114.76,87,79,72,84
+183,NRG,Utilities,Independent Power Producers & Energy Traders,S&P 500,114.7,87,93,96,98
+184,PSTG,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 400,114.65,87,28,37,98
+185,CW,Industrials,Aerospace & Defense,S&P 400,114.57,87,87,89,86
+186,QNST,Communication Services,Interactive Media & Services,S&P 600,114.48,87,87,95,94
+187,FLS,Industrials,Industrial Machinery & Supplies & Components,S&P 400,114.45,87,84,63,75
+188,RJF,Financials,Investment Banking & Brokerage,S&P 500,114.43,87,91,38,62
+189,NATL,Financials,Transaction & Payment Processing Services,S&P 600,114.32,87,65,64,90
+190,TMUS,Communication Services,Wireless Telecommunication Services,S&P 500,114.16,87,86,76,76
+191,FBK,Financials,Regional Banks,S&P 600,114.12,87,90,87,77
+192,TGI,Industrials,Aerospace & Defense,S&P 600,114.09,87,89,27,87
+193,BANR,Financials,Regional Banks,S&P 600,114.03,87,94,82,61
+194,ISRG,Health Care,Health Care Equipment,S&P 500,114.03,87,82,82,89
+195,OMCL,Health Care,Health Care Technology,S&P 600,114.01,87,70,88,2
+196,BK,Financials,Asset Management & Custody Banks,S&P 500,113.98,86,86,90,84
+197,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,113.95,86,97,50,26
+198,CRM,Information Technology,Application Software,S&P 500,113.89,86,70,40,46
+199,CBRE,Real Estate,Real Estate Services,S&P 500,113.89,86,88,91,45
+200,DEI,Real Estate,Office REITs,S&P 600,113.88,86,88,87,46
+201,PYPL,Financials,Transaction & Payment Processing Services,S&P 500,113.85,86,81,81,21
+202,PNFP,Financials,Regional Banks,S&P 400,113.83,86,92,78,62
+203,EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,113.81,86,85,56,43
+204,BX,Financials,Asset Management & Custody Banks,S&P 500,113.8,86,93,82,58
+205,GS,Financials,Investment Banking & Brokerage,S&P 500,113.79,86,87,76,87
+206,WFC,Financials,Diversified Banks,S&P 500,113.72,86,89,36,87
+207,HLI,Financials,Investment Banking & Brokerage,S&P 400,113.59,86,90,86,77
+208,SNV,Financials,Regional Banks,S&P 400,113.5,86,92,75,82
+209,WTFC,Financials,Regional Banks,S&P 400,113.49,86,85,62,70
+210,EWBC,Financials,Regional Banks,S&P 400,113.47,86,91,67,74
+211,CMI,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 500,113.38,85,83,74,61
+212,IP,Materials,Paper & Plastic Packaging Products & Materials,S&P 500,113.37,85,93,73,85
+213,GLW,Information Technology,Electronic Components,S&P 500,113.23,85,85,89,85
+214,EPAC,Industrials,Industrial Machinery,S&P 600,113.03,85,82,73,86
+215,AXP,Financials,Consumer Finance,S&P 500,112.98,85,81,87,86
+216,R,Industrials,Cargo Ground Transportation,S&P 400,112.92,85,81,81,76
+217,META,Communication Services,Interactive Media & Services,S&P 500,112.85,85,67,89,94
+218,FYBR,Communication Services,Integrated Telecommunication Services,S&P 400,112.81,85,90,98,89
+219,AORT,Health Care,Health Care Equipment,S&P 600,112.67,85,79,79,94
+220,JHG,Financials,Asset Management & Custody Banks,S&P 400,112.65,85,88,79,78
+221,ESAB,Industrials,Industrial Machinery & Supplies & Components,S&P 400,112.56,85,75,61,66
+222,SANM,Information Technology,Electronic Manufacturing Services,S&P 600,112.53,85,69,58,72
+223,BSIG,Financials,Asset Management & Custody Banks,S&P 600,112.52,85,89,71,53
+224,BANF,Financials,Regional Banks,S&P 600,112.16,85,81,70,34
+225,SFBS,Financials,Regional Banks,S&P 600,112.13,85,92,89,67
+226,AX,Financials,Regional Banks,S&P 600,112.12,84,92,81,86
+227,CRVL,Health Care,Health Care Services,S&P 600,112.0,84,83,88,66
+228,T,Communication Services,Integrated Telecommunication Services,S&P 500,111.89,84,81,83,81
+229,SABR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 600,111.85,84,64,48,11
+230,SATS,Communication Services,Wireless Telecommunication Services,S&P 600,111.78,84,95,97,71
+231,AIT,Industrials,Trading Companies & Distributors,S&P 400,111.77,84,89,71,70
+232,GBCI,Financials,Regional Banks,S&P 400,111.65,84,92,81,59
+233,MAC,Real Estate,Retail REITs,S&P 600,111.61,84,86,76,70
+234,KAR,Industrials,Diversified Support Services,S&P 600,111.61,84,67,32,49
+235,COLB,Financials,Regional Banks,S&P 400,111.59,84,92,87,38
+236,EGBN,Financials,Regional Banks,S&P 600,111.57,84,86,42,11
+237,PODD,Health Care,Health Care Equipment,S&P 500,111.56,84,89,78,50
+238,CPRX,Health Care,Biotechnology,S&P 600,111.55,84,78,90,55
+239,VMI,Industrials,Industrial Machinery & Supplies & Components,S&P 400,111.53,84,87,58,70
+240,UTHR,Health Care,Biotechnology,S&P 400,111.5,84,81,90,95
+241,ICUI,Health Care,Health Care Supplies,S&P 600,111.49,83,93,98,43
+242,LAD,Consumer Discretionary,Automotive Retail,S&P 400,111.43,83,84,49,10
+243,USFD,Consumer Staples,Food Distributors,S&P 400,111.33,83,74,77,69
+244,COF,Financials,Consumer Finance,S&P 500,111.33,83,88,60,71
+245,WAB,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 500,111.25,83,83,86,89
+246,AMZN,Consumer Discretionary,Broadline Retail,S&P 500,111.23,83,64,56,89
+247,WBD,Communication Services,Broadcasting,S&P 500,111.23,83,48,18,3
+248,HFWA,Health Care,Regional Banks,S&P 600,111.15,83,83,72,40
+249,CFR,Financials,Regional Banks,S&P 400,111.11,83,82,51,33
+250,BKE,Consumer Discretionary,Apparel Retail,S&P 600,111.11,83,69,63,40
+251,MSI,Information Technology,Communications Equipment,S&P 500,111.01,83,82,88,86
+252,PCTY,Industrials,Human Resource & Employment Services,S&P 400,110.91,83,67,38,5
+253,PRGS,Information Technology,Systems Software,S&P 600,110.86,83,66,31,42
+254,TRMB,Information Technology,Electronic Equipment & Instruments,S&P 500,110.76,83,76,34,34
+255,SLG,Real Estate,Office REITs,S&P 600,110.74,83,96,97,95
+256,BSX,Health Care,Health Care Equipment,S&P 500,110.71,82,78,80,90
+257,PM,Consumer Staples,Tobacco,S&P 500,110.62,82,77,80,67
+258,OKE,Energy,Oil & Gas Storage & Transportation,S&P 500,110.58,82,93,83,79
+259,DLR,Real Estate,Data Center REITs,S&P 500,110.58,82,82,63,81
+260,EXTR,Information Technology,Communications Equipment,S&P 600,110.58,82,49,25,10
+261,PWR,Industrials,Construction & Engineering,S&P 500,110.56,82,87,78,74
+262,LMAT,Health Care,Health Care Equipment,S&P 600,110.46,82,93,90,91
+263,NBTB,Financials,Regional Banks,S&P 600,110.45,82,72,73,66
+264,PHIN,Consumer Discretionary,Automotive Retail,S&P 600,110.44,82,90,96,79
+265,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 500,110.38,82,52,63,78
+266,ZBRA,Information Technology,Electronic Equipment & Instruments,S&P 500,110.37,82,79,84,65
+267,ENR,Consumer Staples,Household Products,S&P 600,110.37,82,71,24,31
+268,DAY,Industrials,Human Resource & Employment Services,S&P 500,110.35,82,64,29,4
+269,NI,Utilities,Multi-Utilities,S&P 500,110.35,82,79,77,65
+270,AWI,Industrials,Building Products,S&P 600,110.29,82,88,87,84
+271,PKG,Materials,Paper & Plastic Packaging Products & Materials,S&P 500,110.28,81,83,75,71
+272,CBU,Financials,Regional Banks,S&P 600,110.27,81,88,79,41
+273,REZI,Industrials,Trading Companies & Distributors,S&P 600,110.26,81,84,25,43
+274,TYL,Information Technology,Application Software,S&P 500,110.24,81,68,87,84
+275,AMP,Financials,Asset Management & Custody Banks,S&P 500,110.23,81,88,58,71
+276,ONB,Financials,Regional Banks,S&P 400,110.22,81,71,56,67
+277,JXN,Financials,Life & Health Insurance,S&P 600,110.17,81,95,98,99
+278,IBTX,Financials,Regional Banks,S&P 600,110.13,81,86,84,62
+279,CASY,Consumer Staples,Food Retail,S&P 400,110.12,81,73,57,93
+280,SNEX,Financials,Investment Banking & Brokerage,S&P 600,110.08,81,84,62,70
+281,BLFS,Health Care,Health Care Supplies,S&P 600,110.03,81,56,92,85
+282,AYI,Industrials,Electrical Components & Equipment,S&P 400,110.02,81,87,75,78
+283,VBTX,Financials,Regional Banks,S&P 600,109.98,81,89,83,61
+284,NPK,Industrials,Aerospace & Defense,S&P 600,109.96,81,32,24,36
+285,TGNA,Communication Services,Broadcasting,S&P 600,109.95,81,74,35,26
+286,SNA,Industrials,Industrial Machinery & Supplies & Components,S&P 500,109.93,80,78,34,24
+287,FHI,Financials,Asset Management & Custody Banks,S&P 400,109.82,80,74,51,33
+288,NDAQ,Financials,Financial Exchanges & Data,S&P 500,109.79,80,78,82,61
+289,PNR,Industrials,Industrial Machinery & Supplies & Components,S&P 500,109.76,80,86,85,52
+290,ZION,Financials,Regional Banks,S&P 400,109.75,80,89,62,81
+291,CVBF,Financials,Regional Banks,S&P 600,109.71,80,82,33,51
+292,MYRG,Industrials,Construction & Engineering,S&P 600,109.69,80,58,2,18
+293,BLK,Financials,Asset Management & Custody Banks,S&P 500,109.68,80,77,73,55
+294,BWXT,Industrials,Aerospace & Defense,S&P 400,109.68,80,91,69,71
+295,MTB,Financials,Regional Banks,S&P 500,109.63,80,93,78,72
+296,BKU,Financials,Regional Banks,S&P 600,109.52,80,87,89,74
+297,CHRW,Industrials,Air Freight & Logistics,S&P 500,109.45,80,74,83,61
+298,STT,Financials,Asset Management & Custody Banks,S&P 500,109.44,80,73,71,39
+299,COST,Consumer Staples,Consumer Staples Merchandise Retail,S&P 500,109.42,80,70,78,93
+300,BRKL,Financials,Regional Banks,S&P 600,109.4,80,77,52,18
+301,GOOG,Communication Services,Interactive Media & Services,S&P 500,109.33,79,53,31,91
+302,SEIC,Financials,Asset Management & Custody Banks,S&P 400,109.32,79,67,35,40
+303,SXC,Materials,Steel,S&P 600,109.31,79,84,8,35
+304,UNIT,Real Estate,Specialized REITs,S&P 600,109.24,79,80,94,1
+305,WT,Financials,Asset Management & Custody Banks,S&P 600,109.22,79,88,77,89
+306,DGII,Information Technology,Communications Equipment,S&P 600,109.15,79,52,35,4
+307,PTGX,Health Care,Biotechnology,S&P 600,109.15,79,83,99,96
+308,JCI,Industrials,Building Products,S&P 500,109.11,79,81,72,63
+309,BJ,Consumer Staples,Hypermarkets & Super Centers,S&P 400,109.11,79,56,33,87
+310,GOOGL,Communication Services,Interactive Media & Services,S&P 500,109.1,79,54,31,91
+311,WELL,Real Estate,Health Care REITs,S&P 500,109.09,79,85,91,83
+312,G,Industrials,Data Processing & Outsourced Services,S&P 400,109.08,79,69,59,25
+313,CINF,Financials,Property & Casualty Insurance,S&P 500,109.02,79,78,72,64
+314,ORCL,Information Technology,Application Software,S&P 500,109.01,79,94,89,85
+315,LII,Industrials,Building Products,S&P 400,108.99,79,74,86,90
+316,BURL,Consumer Discretionary,Apparel Retail,S&P 400,108.92,78,87,91,92
+317,TRMK,Financials,Regional Banks,S&P 600,108.91,78,87,69,85
+318,BMI,Information Technology,Electronic Equipment & Instruments,S&P 600,108.85,78,62,85,81
+319,BMY,Health Care,Pharmaceuticals,S&P 500,108.85,78,73,35,5
+320,JBL,Information Technology,Electronic Manufacturing Services,S&P 500,108.75,78,40,18,15
+321,CNO,Financials,Life & Health Insurance,S&P 400,108.72,78,85,84,60
+322,SKT,Real Estate,Retail REITs,S&P 600,108.7,78,83,75,56
+323,ALTR,Information Technology,Application Software,S&P 400,108.69,78,66,49,88
+324,TCBI,Financials,Regional Banks,S&P 400,108.64,78,91,60,48
+325,PAYC,Industrials,Human Resource & Employment Services,S&P 500,108.64,78,73,21,1
+326,INDB,Financials,Regional Banks,S&P 600,108.61,78,77,62,36
+327,SLVM,Materials,Paper Products,S&P 600,108.6,78,89,96,94
+328,EBAY,Consumer Discretionary,Broadline Retail,S&P 500,108.59,78,71,88,74
+329,CBSH,Financials,Regional Banks,S&P 400,108.53,78,79,62,69
+330,PRA,Financials,Property & Casualty Insurance,S&P 600,108.52,78,64,31,12
+331,CEG,Utilities,Electric Utilities,S&P 500,108.47,77,91,98,98
+332,EQT,Energy,Oil & Gas Exploration & Production,S&P 500,108.41,77,66,17,29
+333,HLNE,Financials,Asset Management & Custody Banks,S&P 400,108.36,77,95,96,87
+334,MC,Financials,Investment Banking & Brokerage,S&P 600,108.36,77,83,90,68
+335,VVI,Industrials,Diversified Support Services,S&P 600,108.25,77,76,37,53
+336,GATX,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 400,108.2,77,61,48,58
+337,FBNC,Financials,Regional Banks,S&P 600,108.19,77,77,87,33
+338,WAL,Financials,Regional Banks,S&P 400,108.04,77,90,94,85
+339,JPM,Financials,Diversified Banks,S&P 500,108.0,77,77,64,83
+340,CDP,Real Estate,Office REITs,S&P 400,107.98,77,64,78,56
+341,INGR,Consumer Staples,Agricultural Products & Services,S&P 400,107.96,77,65,74,56
+342,MMM,Industrials,Industrial Conglomerates,S&P 500,107.95,77,81,96,80
+343,LPX,Materials,Forest Products,S&P 400,107.85,77,91,94,72
+344,GILD,Health Care,Biotechnology,S&P 500,107.81,77,67,59,23
+345,BDC,Information Technology,Electronic Components,S&P 400,107.71,77,83,82,49
+346,SNDR,Industrials,Cargo Ground Transportation,S&P 600,107.67,76,76,58,31
+347,ADEA,Information Technology,IT Consulting & Other Services,S&P 600,107.62,76,35,39,41
+348,CTAS,Industrials,Diversified Support Services,S&P 500,107.6,76,78,87,85
+349,HQY,Health Care,Managed Health Care,S&P 400,107.53,76,85,28,79
+350,EXE,Energy,Oil & Gas Exploration & Production,S&P 400,107.52,76,67,22,33
+351,PANW,Information Technology,Systems Software,S&P 500,107.51,76,76,63,88
+352,TT,Industrials,Building Products,S&P 500,107.46,76,88,92,94
+353,TTWO,Communication Services,Interactive Home Entertainment,S&P 500,107.46,76,63,23,48
+354,MO,Consumer Staples,Tobacco,S&P 500,107.44,76,76,70,67
+355,APOG,Industrials,Building Products,S&P 600,107.42,76,90,68,80
+356,RBA,Industrials,Diversified Support Services,S&P 400,107.4,76,75,62,70
+357,PH,Industrials,Industrial Machinery & Supplies & Components,S&P 500,107.33,76,80,85,66
+358,AMSF,Financials,Property & Casualty Insurance,S&P 600,107.22,76,69,32,22
+359,FULT,Financials,Regional Banks,S&P 600,107.21,76,77,66,83
+360,COKE,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 400,107.08,76,72,95,96
+361,HBAN,Financials,Regional Banks,S&P 500,106.9,75,86,67,68
+362,MLAB,Health Care,Health Care Equipment,S&P 600,106.89,75,15,85,5
+363,MUSA,Consumer Discretionary,Automotive Retail,S&P 400,106.86,75,63,64,89
+364,C,Financials,Diversified Banks,S&P 500,106.83,75,70,57,87
+365,CUZ,Real Estate,Office REITs,S&P 400,106.82,75,82,91,51
+366,PNC,Financials,Diversified Banks,S&P 500,106.78,75,85,81,67
+367,TRN,Industrials,Construction Machinery & Heavy Trucks,S&P 600,106.77,75,85,77,75
+368,COOP,Financials,Commercial & Residential Mortgage Finance,S&P 600,106.76,75,74,82,90
+369,PRK,Financials,Regional Banks,S&P 600,106.74,75,87,90,87
+370,GNRC,Industrials,Electrical Components & Equipment,S&P 500,106.68,75,84,67,47
+371,LNTH,Health Care,Health Care Supplies,S&P 400,106.58,75,24,98,83
+372,CFG,Financials,Regional Banks,S&P 500,106.57,75,86,80,82
+373,MSGS,Communication Services,Movies & Entertainment,S&P 600,106.56,75,55,48,46
+374,MARA,Information Technology,IT Consulting & Other Services,S&P 600,106.56,75,62,24,87
+375,IBM,Information Technology,IT Consulting & Other Services,S&P 500,106.53,74,61,88,64
+376,DBX,Information Technology,Application Software,S&P 400,106.5,74,46,25,13
+377,BKR,Energy,Oil & Gas Equipment & Services,S&P 500,106.49,74,82,36,53
+378,JLL,Real Estate,Real Estate Services,S&P 400,106.48,74,77,95,81
+379,KR,Consumer Staples,Food Retail,S&P 500,106.42,74,61,55,43
+380,CCOI,Communication Services,Alternative Carriers,S&P 600,106.38,74,61,77,16
+381,FFBC,Financials,Regional Banks,S&P 600,106.32,74,74,63,52
+382,TXRH,Consumer Discretionary,Restaurants,S&P 400,106.3,74,80,83,94
+383,SSB,Financials,Regional Banks,S&P 400,106.25,74,75,81,42
+384,CATY,Financials,Regional Banks,S&P 600,106.1,74,80,51,50
+385,EMR,Industrials,Electrical Components & Equipment,S&P 500,106.1,74,74,29,63
+386,JBLU,Industrials,Passenger Airlines,S&P 600,106.06,74,56,33,29
+387,VIAV,Information Technology,Communications Equipment,S&P 600,105.99,74,60,37,3
+388,BDN,Real Estate,Office REITs,S&P 600,105.96,74,71,74,38
+389,RLI,Financials,Property & Casualty Insurance,S&P 400,105.95,74,66,44,41
+390,WBS,Financials,Regional Banks,S&P 400,105.91,73,84,34,35
+391,HMN,Financials,Multi-line Insurance,S&P 600,105.88,73,65,43,41
+392,RUSHA,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 600,105.81,73,76,63,18
+393,TNL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 400,105.8,73,75,46,62
+394,CSCO,Information Technology,Communications Equipment,S&P 500,105.67,73,61,38,27
+395,MMSI,Health Care,Health Care Supplies,S&P 600,105.61,73,73,83,69
+396,MGEE,Utilities,Electric Utilities,S&P 600,105.58,73,86,73,38
+397,UGI,Utilities,Gas Utilities,S&P 400,105.52,73,38,38,30
+398,APH,Information Technology,Electronic Components,S&P 500,105.52,73,68,68,94
+399,IRM,Real Estate,Other Specialized REITs,S&P 500,105.48,73,90,97,92
+400,PFGC,Consumer Staples,Food Distributors,S&P 400,105.48,73,57,52,35
+401,GHC,Consumer Discretionary,Education Services,S&P 400,105.41,73,77,61,54
+402,SFNC,Financials,Regional Banks,S&P 600,105.41,73,81,73,32
+403,NTRS,Financials,Asset Management & Custody Banks,S&P 500,105.35,73,82,55,57
+404,AIZ,Financials,Multi-line Insurance,S&P 500,105.34,73,71,66,54
+405,BHLB,Financials,Regional Banks,S&P 600,105.32,72,77,69,52
+406,SWI,Information Technology,Systems Software,S&P 600,105.32,72,48,58,73
+407,ESE,Industrials,Industrial Machinery,S&P 600,105.3,72,82,57,33
+408,SUPN,Health Care,Pharmaceuticals,S&P 600,105.25,72,60,35,15
+409,MRCY,Industrials,Electrical Components & Equipment,S&P 600,105.23,72,58,64,9
+410,CVCO,Consumer Discretionary,Homebuilding,S&P 600,105.23,72,83,80,50
+411,EHC,Health Care,Health Care Facilities,S&P 400,105.18,72,71,75,78
+412,PFS,Financials,Regional Banks,S&P 600,105.17,72,78,81,26
+413,CPAY,Financials,Transaction & Payment Processing Services,S&P 500,105.15,72,84,44,29
+414,ACA,Industrials,Industrial Machinery,S&P 600,105.1,72,74,55,48
+415,BAC,Financials,Diversified Banks,S&P 500,105.06,72,80,54,87
+416,BYD,Consumer Discretionary,Casinos & Gaming,S&P 400,105.04,72,68,40,12
+417,LOPE,Consumer Discretionary,Education Services,S&P 400,104.99,72,56,41,68
+418,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,104.88,72,71,65,86
+419,PEG,Utilities,Electric Utilities,S&P 500,104.83,72,77,88,82
+420,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,104.82,71,69,40,67
+421,PEN,Health Care,Health Care Equipment,S&P 400,104.82,71,46,12,3
+422,AEE,Utilities,Multi-Utilities,S&P 500,104.82,71,67,64,31
+423,EIG,Financials,Property & Casualty Insurance,S&P 600,104.81,71,67,50,50
+424,CWK,Real Estate,Real Estate Services,S&P 600,104.73,71,78,91,68
+425,ZWS,Industrials,Industrial Machinery & Supplies & Components,S&P 600,104.72,71,72,59,34
+426,PSN,Industrials,Aerospace & Defense,S&P 400,104.67,71,60,93,90
+427,TRST,Financials,Regional Banks,S&P 600,104.64,71,71,67,47
+428,CG,Financials,Asset Management & Custody Banks,S&P 400,104.61,71,81,52,59
+429,NARI,Health Care,Health Care Equipment,S&P 600,104.59,71,31,6,14
+430,CEIX,Energy,Coal & Consumable Fuels,S&P 600,104.57,71,87,36,79
+431,EQH,Financials,Diversified Financial Services,S&P 400,104.53,71,79,66,90
+432,ITRI,Information Technology,Electronic Equipment & Instruments,S&P 600,104.53,71,81,83,91
+433,PB,Financials,Regional Banks,S&P 400,104.5,71,75,65,42
+434,ALL,Financials,Property & Casualty Insurance,S&P 500,104.4,71,67,87,79
+435,WS,Materials,Steel,S&P 600,104.38,70,92,72,73
+436,FHB,Financials,Regional Banks,S&P 600,104.36,70,74,53,53
+437,NXRT,Real Estate,Multi-Family Residential REITs,S&P 600,104.35,70,81,88,76
+438,CRGY,Energy,Oil & Gas Exploration & Production,S&P 600,104.31,70,76,23,41
+439,WTW,Financials,Insurance Brokers,S&P 500,104.29,70,55,57,59
+440,WSR,Real Estate,Retail REITs,S&P 600,104.13,70,63,57,84
+441,CADE,Financials,Regional Banks,S&P 400,104.11,70,83,64,74
+442,CME,Financials,Financial Exchanges & Data,S&P 500,104.11,70,46,41,35
+443,TFIN,Financials,Regional Banks,S&P 600,104.1,70,77,38,70
+444,ASB,Financials,Regional Banks,S&P 400,104.06,70,78,43,69
+445,BL,Information Technology,Application Software,S&P 600,104.06,70,44,15,8
+446,GEN,Information Technology,Systems Software,S&P 500,104.06,70,72,71,85
+447,RF,Financials,Regional Banks,S&P 500,104.03,70,88,74,60
+448,ABCB,Financials,Regional Banks,S&P 600,104.02,70,86,88,77
+449,SHO,Real Estate,Hotel & Resort REITs,S&P 600,103.99,70,26,39,42
