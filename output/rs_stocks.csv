@@ -9,7 +9,7 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 8,RCUS,Health Care,Biotechnology,S&P 600,211.39,99,97,41,11
 9,SATS,Communication Services,Wireless Telecommunication Services,S&P 400,205.53,99,99,99,8
 10,STX,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 500,198.26,99,99,98,95
-11,TTMI,Information Technology,Electronic Manufacturing Services,S&P 600,197.74,99,99,99,98
+11,TTMI,Information Technology,Electronic Manufacturing Services,S&P 600,197.73,99,99,99,98
 12,MU,Information Technology,Semiconductors,S&P 500,197.06,99,99,80,75
 13,WBD,Communication Services,Broadcasting,S&P 500,195.01,99,98,83,62
 14,NVRI,Industrials,Industrial Machinery & Supplies & Components,S&P 600,193.24,99,93,95,70
@@ -36,7 +36,7 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 35,TER,Information Technology,Semiconductor Materials & Equipment,S&P 500,154.02,97,97,79,6
 36,VICR,Industrials,Electrical Components & Equipment,S&P 600,153.26,97,98,58,59
 37,VIAV,Information Technology,Communications Equipment,S&P 600,152.85,97,92,79,50
-38,NEM,Materials,Gold,S&P 500,152.04,97,94,97,86
+38,NEM,Materials,Gold,S&P 500,152.48,97,94,97,86
 39,DY,Industrials,Construction & Engineering,S&P 600,151.96,97,91,90,97
 40,M,Consumer Discretionary,Broadline Retail,S&P 400,151.84,97,94,86,14
 41,BTSG,Health Care,Health Care Services,S&P 600,150.96,97,97,90,98
@@ -56,10 +56,10 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 55,LGND,Health Care,Biotechnology,S&P 600,142.75,96,94,97,53
 56,INTC,Information Technology,Semiconductors,S&P 500,142.29,96,98,68,31
 57,FSLR,Information Technology,Semiconductors,S&P 500,142.01,96,92,79,33
-58,IDCC,Information Technology,Communications Equipment,S&P 600,141.48,96,98,97,95
-59,PLTR,Information Technology,Application Software,S&P 500,141.43,96,99,99,99
-60,MD,Health Care,Health Care Services,S&P 600,141.28,96,91,84,88
-61,PAHC,Health Care,Pharmaceuticals,S&P 600,141.17,96,97,98,80
+58,PAHC,Health Care,Pharmaceuticals,S&P 600,141.55,96,97,98,80
+59,IDCC,Information Technology,Communications Equipment,S&P 600,141.48,96,98,97,95
+60,PLTR,Information Technology,Application Software,S&P 500,141.43,96,99,99,99
+61,MD,Health Care,Health Care Services,S&P 600,141.28,96,91,84,88
 62,AMKR,Information Technology,Semiconductors,S&P 400,140.97,95,93,57,12
 63,SMTC,Information Technology,Semiconductors,S&P 600,139.72,95,94,93,39
 64,MKSI,Information Technology,Semiconductor Materials & Equipment,S&P 400,139.55,95,95,49,27
@@ -100,8 +100,8 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 99,MIR,Information Technology,Electronic Equipment & Instruments,S&P 600,127.26,93,97,91,98
 100,SITM,Information Technology,Semiconductors,S&P 600,126.88,93,94,81,94
 101,HCC,Materials,Steel,S&P 600,126.77,93,81,50,21
-102,COLL,Health Care,Pharmaceuticals,S&P 600,126.6,93,69,88,36
-103,JAZZ,Health Care,Pharmaceuticals,S&P 400,126.6,93,74,66,29
+102,JAZZ,Health Care,Pharmaceuticals,S&P 400,126.6,93,74,66,29
+103,COLL,Health Care,Pharmaceuticals,S&P 600,126.6,93,69,88,36
 104,WWD,Industrials,Electrical Components & Equipment,S&P 400,126.46,93,87,86,93
 105,KRYS,Health Care,Biotechnology,S&P 600,126.23,93,71,22,8
 106,PSTG,Information Technology,"Technology Hardware, Storage & Peripherals",S&P 400,126.23,93,97,96,58
@@ -131,8 +131,8 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 130,CMI,Industrials,Construction Machinery & Heavy Transportation Equipment,S&P 500,121.7,91,88,78,55
 131,COR,Health Care,Health Care Distributors,S&P 500,121.6,91,82,69,82
 132,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 500,121.33,91,94,98,97
-133,INVX,Energy,Oil & Gas Equipment & Services,S&P 600,120.99,91,90,47,29
-134,MTZ,Industrials,Construction & Engineering,S&P 400,120.99,91,93,90,96
+133,MTZ,Industrials,Construction & Engineering,S&P 400,120.99,91,93,90,96
+134,INVX,Energy,Oil & Gas Equipment & Services,S&P 600,120.99,91,90,47,29
 135,LBRT,Energy,Oil & Gas Equipment & Services,S&P 600,120.92,91,91,2,6
 136,MRCY,Industrials,Electrical Components & Equipment,S&P 600,120.88,91,96,97,95
 137,GEV,Industrials,Heavy Electrical Equipment,S&P 500,120.68,90,90,99,99
@@ -145,8 +145,8 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 144,MPWR,Information Technology,Semiconductors,S&P 500,120.05,90,94,82,62
 145,GM,Consumer Discretionary,Automobile Manufacturers,S&P 500,119.83,90,91,76,44
 146,EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",S&P 500,119.67,90,88,87,80
-147,COKE,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 400,119.6,90,58,31,28
-148,URBN,Consumer Discretionary,Apparel Retail,S&P 600,119.6,90,78,86,97
+147,URBN,Consumer Discretionary,Apparel Retail,S&P 600,119.6,90,78,86,97
+148,COKE,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 400,119.6,90,58,31,28
 149,SCHL,Consumer Discretionary,Publishing,S&P 600,119.18,90,88,77,5
 150,PII,Consumer Discretionary,Leisure Products,S&P 400,119.14,90,92,75,4
 151,MCK,Health Care,Health Care Distributors,S&P 500,118.89,90,85,58,84
@@ -204,8 +204,8 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 203,MPW,Real Estate,Health Care REITs,S&P 600,113.38,86,68,35,27
 204,CTRE,Real Estate,Health Care REITs,S&P 600,113.36,86,74,80,70
 205,FCFS,Financials,Consumer Finance,S&P 400,113.25,86,81,88,74
-206,PSKY,Communication Services,Movies & Entertainment,S&P 500,113.22,86,90,93,60
-207,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 500,113.22,86,78,70,85
+206,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,S&P 500,113.22,86,78,70,85
+207,PSKY,Communication Services,Movies & Entertainment,S&P 500,113.22,86,90,93,60
 208,BOOT,Consumer Discretionary,Apparel Retail,S&P 600,113.2,86,85,89,94
 209,C,Financials,Diversified Banks,S&P 500,113.13,86,86,93,86
 210,AA,Materials,Aluminum,S&P 400,113.11,86,85,34,13
@@ -215,15 +215,15 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 214,ROK,Industrials,Electrical Components & Equipment,S&P 500,112.75,85,84,75,86
 215,IBM,Information Technology,IT Consulting & Other Services,S&P 500,112.73,85,86,48,90
 216,RTX,Industrials,Aerospace & Defense,S&P 500,112.56,85,86,83,82
-217,PINC,Health Care,Health Care Services,S&P 600,112.41,85,90,84,84
-218,HXL,Industrials,Aerospace & Defense,S&P 400,112.41,85,83,59,32
+217,HXL,Industrials,Aerospace & Defense,S&P 400,112.41,85,83,59,32
+218,PINC,Health Care,Health Care Services,S&P 600,112.41,85,90,84,84
 219,SHC,Health Care,Health Care Services,S&P 400,112.31,85,88,84,37
 220,ANDE,Consumer Staples,Food Distributors,S&P 600,112.29,85,81,41,8
 221,GS,Financials,Investment Banking & Brokerage,S&P 500,112.25,85,85,88,85
 222,JOE,Real Estate,Real Estate Development,S&P 600,112.24,85,46,41,29
-223,PLUS,Information Technology,Technology Distributors,S&P 600,112.17,85,51,23,36
-224,VECO,Information Technology,Semiconductor Materials & Equipment,S&P 600,112.17,85,88,35,10
-225,CPRI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 400,112.17,85,72,35,4
+223,VECO,Information Technology,Semiconductor Materials & Equipment,S&P 600,112.17,85,88,35,10
+224,CPRI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",S&P 400,112.17,85,72,35,4
+225,PLUS,Information Technology,Technology Distributors,S&P 600,112.17,85,51,23,36
 226,RDNT,Health Care,Health Care Services,S&P 600,112.15,85,89,74,50
 227,F,Consumer Discretionary,Automobile Manufacturers,S&P 500,112.02,84,86,73,48
 228,EXPD,Industrials,Air Freight & Logistics,S&P 500,111.95,84,51,48,31
@@ -304,17 +304,17 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 303,AYI,Industrials,Electrical Components & Equipment,S&P 400,107.54,79,81,81,48
 304,ESE,Industrials,Industrial Machinery & Supplies & Components,S&P 600,107.53,79,91,89,95
 305,ONTO,Information Technology,Semiconductor Materials & Equipment,S&P 400,107.43,79,61,6,1
-306,ANET,Information Technology,Communications Equipment,S&P 500,107.42,79,95,97,83
-307,AIR,Industrials,Aerospace & Defense,S&P 600,107.42,79,86,72,48
+306,AIR,Industrials,Aerospace & Defense,S&P 600,107.42,79,86,72,48
+307,ANET,Information Technology,Communications Equipment,S&P 500,107.42,79,95,97,83
 308,KN,Information Technology,Electronic Components,S&P 600,107.35,79,85,80,44
 309,EXE,Energy,Oil & Gas Exploration & Production,S&P 500,107.34,79,52,41,93
 310,CORT,Health Care,Pharmaceuticals,S&P 600,107.33,79,68,91,98
 311,AMGN,Health Care,Biotechnology,S&P 500,107.24,79,43,30,35
 312,TNDM,Health Care,Health Care Equipment,S&P 600,107.16,79,3,0,9
-313,CSCO,Information Technology,Communications Equipment,S&P 500,107.09,79,76,72,87
-314,HAS,Consumer Discretionary,Leisure Products,S&P 500,107.09,79,78,84,63
+313,HAS,Consumer Discretionary,Leisure Products,S&P 500,107.09,79,78,84,63
+314,CSCO,Information Technology,Communications Equipment,S&P 500,107.09,79,76,72,87
 315,CMC,Materials,Steel,S&P 400,107.09,79,81,65,52
-316,L,Financials,Multi-line Insurance,S&P 500,106.94,79,69,69,69
+316,L,Financials,Multi-line Insurance,S&P 500,107.0,79,69,69,69
 317,TALO,Energy,Oil & Gas Exploration & Production,S&P 600,106.92,78,69,48,15
 318,UGI,Utilities,Gas Utilities,S&P 400,106.85,78,61,66,92
 319,EME,Industrials,Construction & Engineering,S&P 500,106.83,78,95,95,90
@@ -325,8 +325,8 @@ Rank,Ticker,Sector,Industry,Universe,Relative Strength,Percentile,1 Month Ago,3 
 324,FOXA,Communication Services,Broadcasting,S&P 500,106.55,78,80,81,87
 325,TJX,Consumer Discretionary,Apparel Retail,S&P 500,106.54,78,73,69,73
 326,GOLF,Consumer Discretionary,Leisure Products,S&P 600,106.47,78,73,58,55
-327,GD,Industrials,Aerospace & Defense,S&P 500,106.43,78,78,76,44
-328,KLIC,Information Technology,Semiconductor Materials & Equipment,S&P 600,106.43,78,64,29,15
+327,KLIC,Information Technology,Semiconductor Materials & Equipment,S&P 600,106.43,78,64,29,15
+328,GD,Industrials,Aerospace & Defense,S&P 500,106.43,78,78,76,44
 329,COHU,Information Technology,Semiconductor Materials & Equipment,S&P 600,106.39,78,78,20,19
 330,PRLB,Industrials,Industrial Machinery & Supplies & Components,S&P 600,106.3,78,92,92,72
 331,MOG.A,Industrials,Aerospace & Defense,S&P 600,106.12,78,69,45,54
